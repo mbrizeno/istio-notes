@@ -2,6 +2,9 @@
 
 Run all commands from the istio source folder.
 
+Make sure you have setup `gcloud` with your credentials. Run 
+`gcloud init` to setup a project, zone and other required things.
+
 1. Create cluster
 
 ```
